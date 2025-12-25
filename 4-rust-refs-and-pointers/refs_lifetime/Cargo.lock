@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "refs-lifetime"
+name = "refs_lifetime"
 version = "0.1.0"
